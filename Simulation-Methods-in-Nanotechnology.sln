@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphene", "Graphene\Graphene.csproj", "{DCC20AD2-F917-41A0-8EC1-54F8B72879D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quantum", "Quantum\Quantum.csproj", "{7AAE774E-2F50-48A9-A0E9-6AC2EA796D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC20AD2-F917-41A0-8EC1-54F8B72879D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC20AD2-F917-41A0-8EC1-54F8B72879D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC20AD2-F917-41A0-8EC1-54F8B72879D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC20AD2-F917-41A0-8EC1-54F8B72879D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AAE774E-2F50-48A9-A0E9-6AC2EA796D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAE774E-2F50-48A9-A0E9-6AC2EA796D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAE774E-2F50-48A9-A0E9-6AC2EA796D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAE774E-2F50-48A9-A0E9-6AC2EA796D05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
